@@ -3,7 +3,7 @@ CAD designs for mechanical parts used in Astronomy, designed with OpenSCAD
 
 For plastic parts, the workflow is as follow:
 - create a parametric design with OpenSCAD.
-- save in STL, slice with Cura
+- save in STL, slice with Cura.
 - 3D print, at home or online.
 
 For metal parts, the workflow is as follow:
