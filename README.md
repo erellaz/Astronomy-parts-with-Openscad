@@ -1,4 +1,4 @@
-# Astronomy-parts-with-Openscad
+# Astronomy parts with Openscad
 CAD designs for mechanical parts used in Astronomy, designed with OpenSCAD
 
 For plastic parts, the workflow is as follow:
